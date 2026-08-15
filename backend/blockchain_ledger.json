@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-06-27T08:21:51.954343+00:00",
+    "data": {
+      "type": "GENESIS",
+      "message": "Evidence Chain of Custody – Genesis Block",
+      "system": "CyberForensics Blockchain v1.0"
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 0,
+    "block_hash": "11c039220761944027a00bef4b4b7baedc1dca3537a2925399d61e54276ac8c9"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-06-27T10:49:42.772827+00:00",
+    "data": {
+      "type": "EVIDENCE_UPLOAD",
+      "evidence_id": "6c4e7237-12c9-462b-bf06-51e413dab734",
+      "case_id": "98",
+      "filename": "Cyber-Attacks.pptx",
+      "evidence_hash": "89a4b02e99c93d99d883f292c39bbc511e60707fea9eda5dce4e7eba39fa90cb",
+      "filesize": 18593265,
+      "evidence_type": "Document / Report",
+      "risk_level": "MEDIUM",
+      "uploader": "admin",
+      "timestamp": "2026-06-27T10:49:42.718070+00:00"
+    },
+    "previous_hash": "11c039220761944027a00bef4b4b7baedc1dca3537a2925399d61e54276ac8c9",
+    "nonce": 82772,
+    "block_hash": "3b9594f6171ba8cb88a713b7f44cdb7b6e48637b4f624061acf7776625295c55"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-06-27T10:49:42.788490+00:00",
+    "data": {
+      "type": "ACCESS_LOG",
+      "evidence_id": "6c4e7237-12c9-462b-bf06-51e413dab734",
+      "action": "UPLOAD",
+      "username": "admin",
+      "role": "admin",
+      "reason": "no",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-06-27T10:49:42.774501+00:00"
+    },
+    "previous_hash": "3b9594f6171ba8cb88a713b7f44cdb7b6e48637b4f624061acf7776625295c55",
+    "nonce": 82788,
+    "block_hash": "ff8f4838cc10c3def1125466ee164778fbbd73e9aceba7ce26bd4c1438280298"
+  }
+]

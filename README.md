@@ -4,7 +4,7 @@ A blockchain-based digital evidence management platform for cybercrime investiga
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start.
 
 ### 1. Backend Setup
 

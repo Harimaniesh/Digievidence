@@ -6,7 +6,7 @@ A blockchain-based digital evidence management platform for cybercrime investiga
 
 ## 🚀 Quick Start.
 
-### 1. Backend Setup
+### 1. Backend Setup.
 
 ```powershell
 cd backend

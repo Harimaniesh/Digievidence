@@ -1,4 +1,4 @@
-# 🔐 CyberForensics Evidence Chain of Custody System.
+#  CyberForensics Evidence Chain of Custody System.
 
 A blockchain-based digital evidence management platform for cybercrime investigations. Built with React, Python Flask, and a cryptographically-chained ledger.
 
